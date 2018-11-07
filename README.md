@@ -6,4 +6,4 @@ This implementation is based off the algorithms describe in Reinforcement Learni
 * https://github.com/udacity/deep-reinforcement-learning
 
 You can read the full explanation of the algorithms in the accompanying medium article found here.
-[LINK]
+https://towardsdatascience.com/learning-to-win-blackjack-with-monte-carlo-methods-61c90a52d53e
